@@ -1,4 +1,5 @@
-# Compte rendu : Controle android
+# Compte rendu : Controle android 
+# Binome : KABBA Aymen / ALLAF Mohamed Amine
 
 ## Interfaces
 
